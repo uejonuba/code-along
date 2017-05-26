@@ -1,0 +1,1 @@
+This is the tale of the Code Along Song.
